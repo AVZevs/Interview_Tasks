@@ -12,10 +12,10 @@
 ## Список задач для собеседования
 
 ### Задача #1
-<img src="images_v1_color" alt="Файл: Postman_API_task_01_v1.png" width="500" />
-<img src="images_v2_bw" alt="Файл: Postman_API_task_01_v2.png" width="500" />
+<img src="images_v1_color/Postman_API_task_01_v1.png" alt="Файл: Postman_API_task_01_v1.png" width="500" />
+<img src="images_v2_bw/Postman_API_task_01_v2.png" alt="Файл: Postman_API_task_01_v2.png" width="500" />
 
-`a10000`**Вопрос:** Что выведет этот запрос (нижняя часть изображения)?
+<span style='color: red;'>**Вопрос:**</span> Что выведет этот запрос (нижняя часть изображения)?
 
 **Ответ:** При выполнении запроса нам вернется 404 статус-код. Мы отправляем вот такой GET-запрос из Postman
 https://restful-booker.herokuapp.com/booking/:id, в котором предполагается, что мы будем использовать параметр :id,
