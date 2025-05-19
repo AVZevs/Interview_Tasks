@@ -31,8 +31,11 @@ https://restful-booker.herokuapp.com/booking/:id, в котором предпо
 
 ### Задача #2
 *Картинка с яркой цветовой гаммой:*
+
 <img src="images_v1_color/Postman_API_task_02_v1.png" alt="Файл: Postman_API_task_02_v1.png" width="500" /><br>
+
 *Картинка с нейтральной цветовой гаммой:*
+
 <img src="images_v2_bw/Postman_API_task_02_v2.png" alt="Файл: Postman_API_task_02_v2.png" width="500" />
 
 :question: ***Вопрос:*** **Что вернет запрос ?**
@@ -60,8 +63,11 @@ https://restful-booker.herokuapp.com/booking/:id, в котором предпо
 
 ### Задача #3
 *Картинка с яркой цветовой гаммой:*
+
 <img src="images_v1_color/Postman_API_task_03_v1.png" alt="Файл: Postman_API_task_03_v1.png" width="500" /><br>
+
 *Картинка с нейтральной цветовой гаммой:*
+
 <img src="images_v2_bw/Postman_API_task_03_v2.png" alt="Файл: Postman_API_task_03_v2.png" width="500" />
 
 :question: ***Вопрос:*** **Что вернет запрос ?**
@@ -75,8 +81,11 @@ https://restful-booker.herokuapp.com/booking/:id, в котором предпо
 
 ### Задача #4
 *Картинка с яркой цветовой гаммой:*
+
 <img src="images_v1_color/Postman_API_task_04_v1.png" alt="Файл: Postman_API_task_04_v1.png" width="500" /><br>
+
 *Картинка с нейтральной цветовой гаммой:*
+
 <img src="images_v2_bw/Postman_API_task_04_v2.png" alt="Файл: Postman_API_task_04_v2.png" width="500" />
 
 :question: ***Вопрос:*** **Что вернет запрос ?**
@@ -88,8 +97,11 @@ https://restful-booker.herokuapp.com/booking/:id, в котором предпо
 
 ### Задача #5
 *Картинка с яркой цветовой гаммой:*
+
 <img src="images_v1_color/Postman_API_task_05_v1.png" alt="Файл: Postman_API_task_05_v1.png" width="500" /><br>
+
 *Картинка с нейтральной цветовой гаммой:*
+
 <img src="images_v2_bw/Postman_API_task_05_v2.png" alt="Файл: Postman_API_task_05_v2.png" width="500" />
 
 :question: ***Вопрос:*** **Что вернет запрос ?**
@@ -101,8 +113,11 @@ https://restful-booker.herokuapp.com/booking/:id, в котором предпо
 
 ### Задача #6
 *Картинка с яркой цветовой гаммой:*
+
 <img src="images_v1_color/Postman_API_scripts_task_06_v1.png" alt="Файл: Postman_API_scripts_task_06_v1.png" width="500" /><br>
+
 *Картинка с нейтральной цветовой гаммой:*
+
 <img src="images_v2_bw/Postman_API_scripts_task_06_v2.png" alt="Файл: Postman_API_scripts_task_06_v2.png" width="500" />
 
 :question: ***Вопрос:*** **Что вернет запрос ?**
@@ -124,8 +139,11 @@ https://restful-booker.herokuapp.com/booking/:id, в котором предпо
 
 ### Задача #7
 *Картинка с яркой цветовой гаммой:*
+
 <img src="images_v1_color/Postman_API_scripts_task_07_v1.png" alt="Файл: Postman_API_scripts_task_07_v1.png" width="500" /><br>
+
 *Картинка с нейтральной цветовой гаммой:*
+
 <img src="images_v2_bw/Postman_API_scripts_task_07_v2.png" alt="Файл: Postman_API_scripts_task_07_v2.png" width="500" />
 
 :question: ***Вопрос:*** **Что вернет запрос ?**
