@@ -9,7 +9,9 @@
 ## Список задач для собеседования
 
 ### Задача #1
+*Картинка с яркой цветовой гаммой:*
 <img src="images_v1_color/Postman_API_task_01_v1.png" alt="Файл: Postman_API_task_01_v1.png" width="500" /><br>
+*Картинка с нейтральной цветовой гаммой:*
 <img src="images_v2_bw/Postman_API_task_01_v2.png" alt="Файл: Postman_API_task_01_v2.png" width="500" />
 
 :question: ***Вопрос:*** **Что выведет этот запрос (нижняя часть изображения)?**
@@ -25,13 +27,16 @@ https://restful-booker.herokuapp.com/booking/:id, в котором предпо
 -----
 
 ### Задача #2
+*Картинка с яркой цветовой гаммой:*
 <img src="images_v1_color/Postman_API_task_02_v1.png" alt="Файл: Postman_API_task_02_v1.png" width="500" /><br>
+*Картинка с нейтральной цветовой гаммой:*
 <img src="images_v2_bw/Postman_API_task_02_v2.png" alt="Файл: Postman_API_task_02_v2.png" width="500" />
 
 :question: ***Вопрос:*** **Что вернет запрос ?**
 
 :white_check_mark: ***Ответ:*** Запрос вернет ровно тоже самое, что и на скриншоте справа, то есть вот это.
 
+```json
 [
 	{
 		"bookingid": 1
@@ -40,6 +45,7 @@ https://restful-booker.herokuapp.com/booking/:id, в котором предпо
 		"bookingid": 7
 	}
 ]
+```
 
 Дело в том, что в запросе добавлен параметр bookname=RedBlood, но в спецификации такой параметр не описан.
 
@@ -47,10 +53,12 @@ https://restful-booker.herokuapp.com/booking/:id, в котором предпо
 валидироваться на json-схему (на лишние поля в запросе, в том числе) и в случае несовпадения со схемой,
 возвращать клиенту какую-нибудь ошибку. Если кандидато про это скажет, то по-моему будет очень неплохо.
 
----------------------------------
+-----
 
 ### Задача #3
+*Картинка с яркой цветовой гаммой:*
 <img src="images_v1_color/Postman_API_task_03_v1.png" alt="Файл: Postman_API_task_03_v1.png" width="500" /><br>
+*Картинка с нейтральной цветовой гаммой:*
 <img src="images_v2_bw/Postman_API_task_03_v2.png" alt="Файл: Postman_API_task_03_v2.png" width="500" />
 
 :question: ***Вопрос:*** **Что вернет запрос ?**
@@ -60,10 +68,12 @@ https://restful-booker.herokuapp.com/booking/:id, в котором предпо
 А тело отправляемого запроса специально сделано не пустым, для запутывания мозговых нейрончиков.
 
 
----------------------------------
+-----
 
 ### Задача #4
+*Картинка с яркой цветовой гаммой:*
 <img src="images_v1_color/Postman_API_task_04_v1.png" alt="Файл: Postman_API_task_04_v1.png" width="500" /><br>
+*Картинка с нейтральной цветовой гаммой:*
 <img src="images_v2_bw/Postman_API_task_04_v2.png" alt="Файл: Postman_API_task_04_v2.png" width="500" />
 
 :question: ***Вопрос:*** **Что вернет запрос ?**
@@ -71,10 +81,12 @@ https://restful-booker.herokuapp.com/booking/:id, в котором предпо
 :white_check_mark: ***Ответ:*** Если внимательно посмотреть на картинку с заданием, то увидими, что хедер Cookie является обязательным, а мы его в заголовках этого запроса не передаем. Соответственно, сервер должен нам вернуть 401 статус-код (или даже 403, смотря что накодили разработчкики).
 
 
----------------------------------
+-----
 
 ### Задача #5
+*Картинка с яркой цветовой гаммой:*
 <img src="images_v1_color/Postman_API_task_05_v1.png" alt="Файл: Postman_API_task_05_v1.png" width="500" /><br>
+*Картинка с нейтральной цветовой гаммой:*
 <img src="images_v2_bw/Postman_API_task_05_v2.png" alt="Файл: Postman_API_task_05_v2.png" width="500" />
 
 :question: ***Вопрос:*** **Что вернет запрос ?**
@@ -82,10 +94,12 @@ https://restful-booker.herokuapp.com/booking/:id, в котором предпо
 :white_check_mark: ***Ответ:*** В ответ на наш запрос, сервер вернет 404. В запросе некорректно указан URL.
 
 
----------------------------------
+-----
 
 ### Задача #6
+*Картинка с яркой цветовой гаммой:*
 <img src="images_v1_color/Postman_API_scripts_task_06_v1.png" alt="Файл: Postman_API_scripts_task_06_v1.png" width="500" /><br>
+*Картинка с нейтральной цветовой гаммой:*
 <img src="images_v2_bw/Postman_API_scripts_task_06_v2.png" alt="Файл: Postman_API_scripts_task_06_v2.png" width="500" />
 
 :question: ***Вопрос:*** **Что вернет запрос ?**
@@ -103,10 +117,12 @@ https://restful-booker.herokuapp.com/booking/:id, в котором предпо
 Ошибка в этом коде есть только в четвертом тесте - там мы специально переназначем поле totalprice в -1. То есть, независимо от того, что нам вернулось в ответе от сервера, это поле всегда будет иметь значение -1. И, соответственно, всегда этот тест будет FAIL.
 
 
----------------------------------
+-----
 
 ### Задача #7
+*Картинка с яркой цветовой гаммой:*
 <img src="images_v1_color/Postman_API_scripts_task_07_v1.png" alt="Файл: Postman_API_scripts_task_07_v1.png" width="500" /><br>
+*Картинка с нейтральной цветовой гаммой:*
 <img src="images_v2_bw/Postman_API_scripts_task_07_v2.png" alt="Файл: Postman_API_scripts_task_07_v2.png" width="500" />
 
 :question: ***Вопрос:*** **Что вернет запрос ?**
@@ -117,8 +133,7 @@ https://restful-booker.herokuapp.com/booking/:id, в котором предпо
 
 В данном конкретном примере оба теста будут выполнены успешно - здесь ответ от сервера полностью соответствует json-схеме.
 
-
----------------------------------
+-----
 
 ## Описание изображений и исходники изображений
 
