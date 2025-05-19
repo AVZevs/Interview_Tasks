@@ -10,8 +10,11 @@
 
 ### Задача #1
 *Картинка с яркой цветовой гаммой:*
+
 <img src="images_v1_color/Postman_API_task_01_v1.png" alt="Файл: Postman_API_task_01_v1.png" width="500" /><br>
+
 *Картинка с нейтральной цветовой гаммой:*
+
 <img src="images_v2_bw/Postman_API_task_01_v2.png" alt="Файл: Postman_API_task_01_v2.png" width="500" />
 
 :question: ***Вопрос:*** **Что выведет этот запрос (нижняя часть изображения)?**
