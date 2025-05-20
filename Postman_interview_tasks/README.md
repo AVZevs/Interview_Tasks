@@ -8,14 +8,14 @@
 
 ## Список задач для собеседования
 
-### :red_circle: Задача #1
+### 🟢 Задача #1
 *Картинка с яркой цветовой гаммой:*
 
-<img src="images_v1_color/Postman_API_task_01_v1.png" alt="Файл: Postman_API_task_01_v1.png" width="500" /><br>
+<img src="images_v1_color/Postman_API_task_01_v1.png" alt="Файл: Postman_API_task_01_v1.png" width="700" /><br>
 
 *Картинка с нейтральной цветовой гаммой:*
 
-<img src="images_v2_bw/Postman_API_task_01_v2.png" alt="Файл: Postman_API_task_01_v2.png" width="500" />
+<img src="images_v2_bw/Postman_API_task_01_v2.png" alt="Файл: Postman_API_task_01_v2.png" width="700" />
 
 :question: ***Вопрос:*** **Что выведет этот запрос (нижняя часть изображения)?**
 
@@ -29,7 +29,7 @@ https://restful-booker.herokuapp.com/booking/:id, в котором предпо
 
 -----
 
-### Задача #2
+### 🟢 Задача #2
 *Картинка с яркой цветовой гаммой:*
 
 <img src="images_v1_color/Postman_API_task_02_v1.png" alt="Файл: Postman_API_task_02_v1.png" width="500" /><br>
@@ -61,7 +61,7 @@ https://restful-booker.herokuapp.com/booking/:id, в котором предпо
 
 -----
 
-### Задача #3
+### 🟢 Задача #3
 *Картинка с яркой цветовой гаммой:*
 
 <img src="images_v1_color/Postman_API_task_03_v1.png" alt="Файл: Postman_API_task_03_v1.png" width="500" /><br>
@@ -79,7 +79,7 @@ https://restful-booker.herokuapp.com/booking/:id, в котором предпо
 
 -----
 
-### Задача #4
+### 🟢 Задача #4
 *Картинка с яркой цветовой гаммой:*
 
 <img src="images_v1_color/Postman_API_task_04_v1.png" alt="Файл: Postman_API_task_04_v1.png" width="500" /><br>
@@ -95,7 +95,7 @@ https://restful-booker.herokuapp.com/booking/:id, в котором предпо
 
 -----
 
-### Задача #5
+### 🟢 Задача #5
 *Картинка с яркой цветовой гаммой:*
 
 <img src="images_v1_color/Postman_API_task_05_v1.png" alt="Файл: Postman_API_task_05_v1.png" width="500" /><br>
@@ -111,7 +111,7 @@ https://restful-booker.herokuapp.com/booking/:id, в котором предпо
 
 -----
 
-### Задача #6
+### 🟢 Задача #6
 *Картинка с яркой цветовой гаммой:*
 
 <img src="images_v1_color/Postman_API_scripts_task_06_v1.png" alt="Файл: Postman_API_scripts_task_06_v1.png" width="500" /><br>
@@ -137,7 +137,7 @@ https://restful-booker.herokuapp.com/booking/:id, в котором предпо
 
 -----
 
-### Задача #7
+### 🟢 Задача #7
 *Картинка с яркой цветовой гаммой:*
 
 <img src="images_v1_color/Postman_API_scripts_task_07_v1.png" alt="Файл: Postman_API_scripts_task_07_v1.png" width="500" /><br>
