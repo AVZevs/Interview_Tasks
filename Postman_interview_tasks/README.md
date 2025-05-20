@@ -8,7 +8,7 @@
 
 ## Список задач для собеседования
 
-### Задача #1
+### **Important** Задача #1
 *Картинка с яркой цветовой гаммой:*
 
 <img src="images_v1_color/Postman_API_task_01_v1.png" alt="Файл: Postman_API_task_01_v1.png" width="500" /><br>
